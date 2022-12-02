@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156402295054",
+    "project_id": "trysten-data",
+    "storage_bucket": "trysten-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156402295054:android:87f3459b3a64ba0feb775f",
+        "android_client_info": {
+          "package_name": "com.theworld.trysten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156402295054-1bf9hqnvvobkernr5vkhn7jv5m76rhpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theworld.trysten",
+            "certificate_hash": "3705e7639200346d323ae651bfecec681a950d83"
+          }
+        },
+        {
+          "client_id": "156402295054-k57usb3ivg3qlph872k37dm7eiof8m0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NYanYkSkrjkdr4HzW1cJRmRot9LZ7bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156402295054-k57usb3ivg3qlph872k37dm7eiof8m0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
